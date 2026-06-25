@@ -1,0 +1,6 @@
+{
+  "name": "Cosmic Ray Laboratory Analyzer",
+  "description": "Advanced statistical anomaly detector and diagnostic suite for Ooty Cosmic Ray Laboratory detectors, including PMT event rates, ADC/TDC histograms, and pedestal metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
